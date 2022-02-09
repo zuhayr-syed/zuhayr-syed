@@ -5,6 +5,6 @@
 ### I am a second year Computer Engineering student @ the University of Waterloo
 
 - Eager to work with new technologies
-- Seeaking Fall 2022 internship opportunities 
+- Seeking Fall 2022 internship opportunities 
 - Contact: zuhayr.syed@uwaterloo.ca 
 
