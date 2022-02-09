@@ -6,4 +6,4 @@
 - Seeaking Fall 2022 internship opportunities 
 - Contact: zuhayr.syed@uwaterloo.ca 
 
-<img align="right" src="https://c.tenor.com/zdmZmDGlasEAAAAM/typing-man-typing.gif" width="200px"/>
+<img align="center" src="https://c.tenor.com/zdmZmDGlasEAAAAM/typing-man-typing.gif" width="200px"/>
